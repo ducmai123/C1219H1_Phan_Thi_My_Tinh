@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8c5cb96-6cef-4041-806d-9269e2355ce4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day1/Baitapthuchanh/baitap1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1/Baitapthuchanh/baitap2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abc" beforeDir="false" />
+    <list default="true" id="e8c5cb96-6cef-4041-806d-9269e2355ce4" name="Default Changelist" comment="commit file demo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +12,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -37,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day1/Baitapthuchanh" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/B1_Nhapmonlaptrinh/Baitap/Motathuattoancocautrucdieukien" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,11 +45,16 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\CODEGYM\C1219H1\Module1\B1_Nhapmonlaptrinh\thuc hanh" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\CODEGYM\C1219H1\Module1\B1_Nhapmonlaptrinh\Baitap\Motathuattoancocautrucdieukien" />
+      <recent name="D:\CODEGYM\C1219H1\Module1\B1_Nhapmonlaptrinh\Baitap" />
       <recent name="D:\CODEGYM\C1219H1\Module1\Day1\Baitapthuchanh" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODEGYM\C1219H1\Module1\B1_Nhapmonlaptrinh\Baitap\Motathuattoancocautrucdieukien" />
+      <recent name="D:\CODEGYM\C1219H1\Module1\B1_Nhapmonlaptrinh\Thuchanh\Motathuattoancocautruclap" />
+      <recent name="D:\CODEGYM\C1219H1\Module1\B1_Nhapmonlaptrinh\Thuchanh\Motathuattoancocautrucdieukien" />
+      <recent name="D:\CODEGYM\C1219H1\Module1\B1_Nhapmonlaptrinh\thuc hanh" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -78,7 +81,12 @@
       <updated>1577076610823</updated>
       <workItem from="1577076612066" duration="1160000" />
       <workItem from="1577150873095" duration="4059000" />
-      <workItem from="1577160974404" duration="257000" />
+      <workItem from="1577160974404" duration="2734000" />
+      <workItem from="1577236778531" duration="833000" />
+      <workItem from="1577238994658" duration="1797000" />
+      <workItem from="1577243383170" duration="52000" />
+      <workItem from="1577247160075" duration="6379000" />
+      <workItem from="1577323069538" duration="250000" />
     </task>
     <task id="LOCAL-00001" summary="commit file demo">
       <created>1577077381991</created>
@@ -87,7 +95,42 @@
       <option name="project" value="LOCAL" />
       <updated>1577077381991</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit file demo">
+      <created>1577161343907</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577161343907</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit file demo">
+      <created>1577163109770</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577163109770</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit file demo">
+      <created>1577163144438</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577163144439</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lession 1: Nhung JavaScript">
+      <created>1577276404835</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577276404836</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit file demo">
+      <created>1577315886359</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577315886359</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Lession 1: Nhung JavaScript" />
     <MESSAGE value="commit file demo" />
     <option name="LAST_COMMIT_MESSAGE" value="commit file demo" />
   </component>
@@ -103,18 +147,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="417" y="152" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1577076672117" />
-    <state x="526" y="0" key="CommitChangelistDialog2" timestamp="1577161342608">
+    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1577315900521">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="526" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577161342608" />
+    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577315900521" />
+    <state x="421" y="87" key="FileChooserDialogImpl" timestamp="1577237749814">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="87" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1577237749814" />
     <state x="288" y="0" key="SettingsEditor" timestamp="1577077497150">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="288" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577077497150" />
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1577161346650">
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1577315908502">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1577161346650" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1577315908502" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1577151292328">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

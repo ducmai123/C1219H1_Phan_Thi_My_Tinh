@@ -37,11 +37,11 @@
             let result;
             if (from.value === "USD" && to.value === "VND") {
                 result = (input.value * 1) * 23000;
-                document.getElementById("table").innerText = "Result: " + result;
+                document.getElementById("table").innerText = "Result: " + result + "VND";
                 }
             if (from.value === "VND" && to.value === "USD") {
                 result = (input.value *1) / 23000;
-                document.getElementById("table").innerText = "Result: " + result;
+                document.getElementById("table").innerText = "Result: " + result + "USD";
             }
         }
     </script>
